@@ -17,4 +17,4 @@ This project involves the creation of an interactive Sales dashboard in Excel ut
 - Sodapop is the largest Coca-Cola retailer with total sales exceeding $4 million.
 - 
 ### Dashboard
-![Image alt text](https://github.com/aravindbc/Data-Analysis-Projects/blob/12fe1220ad0feb23cd7fd025595f19004a8dc900/Coca-Cola%20Sales%20Analysis/Coco-Cola_Sales_Dashboard.png)
+![Image alt text](https://github.com/SudeekshaVandrangi/Coca_Cola_Sales_Analysis/blob/main/Screenshot%202025-04-07%20162759.png)
